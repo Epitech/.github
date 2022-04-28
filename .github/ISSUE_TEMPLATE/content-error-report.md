@@ -6,7 +6,7 @@ labels: invalid
 assignees: r3g31rk
 ---
 
-<!-- This report helps to declare errors (such as bad links, typos, ...). You can erase any parts of this template not applicable to your issue. To avoid any confusion, please fill one report per error. -->
+<!-- This report guides you to declare errors (such as bad links, typos, wrong results,...). You can erase any parts of this template not applicable to your issue. To avoid any confusion, please fill one report per error. -->
 
 
 ## Prerequisites
