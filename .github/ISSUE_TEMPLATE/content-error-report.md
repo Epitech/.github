@@ -1,16 +1,12 @@
 ---
-name: Error report
-about: Create a report to help us correct errors and improve pedagogical content
+name: Content Error Report
+about: Create a report to fix and improve the pedagogical content delivered.
 title: "[ERROR] "
 labels: invalid
 assignees: r3g31rk
 ---
 
-<!--
-This report helps to declare errors (such as bad links, typos, ...).
-You can erase any parts of this template not applicable to your issue.
-To avoid any confusion, please fill one report per error.
--->
+<!-- This report helps to declare errors (such as bad links, typos, ...). You can erase any parts of this template not applicable to your issue. To avoid any confusion, please fill one report per error. -->
 
 
 ## Prerequisites
