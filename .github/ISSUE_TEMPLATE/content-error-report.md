@@ -21,8 +21,11 @@ You can/should preview your issue before submitting it.-->
 
 
 ## Error's location
-<!--Platform(s) concerned by the error (Put an `x` in all the boxes that apply.)-->
+<!--Complete name, with extension, of the file to fix (one filename per line if multiple files are impacted)-->
+The error concerns the file(s) named ...
 
+
+<!--Platform(s) concerned by the error (Put an `x` in all the boxes that apply.)-->
 The error is present on:
 
 - [ ] intra.epitech.digital (Gandalf) 
@@ -31,8 +34,6 @@ The error is present on:
 - [ ] jenkins.epitest.eu (Moulinette)
 - [ ] github.com
 
-<!--Complete name, with extension, of the file to fix (one filename per line if multiple files are impacted)-->
-The error concerns the file(s) named ...
 
 
 

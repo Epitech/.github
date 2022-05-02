@@ -18,6 +18,10 @@ You can/should preview your issue before submitting it.-->
 
 
 ## Upgrade's location
+<!--Complete name, with extension, of the file to upgrade (one filename per line if multiple files are impacted)-->
+The upgrade concerns the file(s) named ...
+
+
 <!--Platform(s) concerned by the upgrade (Put an `x` in all the boxes that apply.)-->
 The upgrade is wanted for:
 
@@ -28,8 +32,6 @@ The upgrade is wanted for:
 - [ ] github.com
 
 
-<!--Complete name, with extension, of the file to upgrade (one filename per line if multiple files are impacted)-->
-The upgrade concerns the file(s) named ...
 
 
 
