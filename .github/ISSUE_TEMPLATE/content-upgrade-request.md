@@ -6,17 +6,19 @@ labels: enhancement
 assignees: claudiaepitech, PierreEpitech, r3g31rk
 ---
 
-
-<!-- This report guides you to ask for upgrades (such as layout refacto, translations, ...). You can erase any parts of this template not applicable to your issue. To avoid any confusion, please fill one report per upgrade. -->
+<!-- This report guides you to ask for upgrades (such as layout refacto, translations, ...). 
+To avoid any confusion, please fill one report per upgrade. 
+You can erase any parts of this template not applicable to your issue. 
+You can/should preview your issue before submitting it.-->
 
 
 ## Prerequisites
-<!--Please, follow this checklist before filing any issue. Put an `x` in all the boxes that apply.-->
+<!--Follow this checklist before filing any issue. (Put an `x` in all the boxes that apply.)-->
 * [ ] I check that an issue does not already exists for the request I'd like.
 
 
 ## Upgrade's location
-<!-- On which platform(s) do you want this upgrade? Put an `x` in all the boxes that apply.-->
+<!--Platform(s) concerned by the upgrade (Put an `x` in all the boxes that apply.)-->
 The upgrade is wanted for:
 
 - [ ] intra.epitech.digital (Gandalf) 
@@ -26,25 +28,25 @@ The upgrade is wanted for:
 - [ ] github.com
 
 
-<!-- What is the complete name, with extension, of the file where you want an upgrade? (one filename per line if multiple files are impacted) -->
+<!--Complete name, with extension, of the file to upgrade (one filename per line if multiple files are impacted)-->
 The upgrade concerns the file(s) named ...
 
 
+
 ## Upgrade's motivation
-<!--- Why is this change required? What problem does it solve? If it fixes an open issue, please link to the issue here. -->
+<!--Why is this change required? What problem does it solve? If it fixes an open issue, please link to the issue here.-->
 The upgrade should solve ...
 
 
 ## Upgrade's type
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply. -->
+<!--Types of changes you want to introduce? (Put an `x` in all the boxes that apply.)-->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 
 ## Upgrade's description
-
-<!--- Describe your changes in detail -->
+<!--Describe your changes in detail.-->
 I would like to ...
 
 
