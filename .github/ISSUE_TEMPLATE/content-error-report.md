@@ -3,7 +3,6 @@ name: Content Error Report
 about: Create a report to fix the pedagogical content delivered.
 title: "[ERROR] "
 labels: invalid
-assignees: claudiaepitech, PierreEpitech, r3g31rk
 ---
 
 <!-- This report guides you to declare errors (such as bad links, typos, wrong results,...). 
