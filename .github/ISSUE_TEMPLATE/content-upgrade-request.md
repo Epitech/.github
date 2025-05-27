@@ -3,6 +3,7 @@ name: Content Upgrade Request
 about: Create a request to improve the pedagogical content delivered.
 title: "[UPGRADE] "
 labels: enhancement
+assignees: r3g31rk
 ---
 
 <!-- This report guides you to ask for upgrades (such as layout refacto, translations, ...). 
