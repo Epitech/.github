@@ -24,4 +24,4 @@ You can/should preview your issue before submitting it.-->
 - Correction: It should be written ...
 
 
-## Thanks for taking the time to fill out this report! It will tremendously contribute to fix the pedagogical content delivered.
+## Thanks for taking the time to fill out this report! It will tremendously contribute to improve the pedagogical content delivered.
