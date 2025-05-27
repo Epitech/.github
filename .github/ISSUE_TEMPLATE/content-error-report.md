@@ -17,35 +17,11 @@ You can/should preview your issue before submitting it.-->
 * [ ] I can not debug and fix that error by myself through a pull request.
 
 
+## Error
 
-
-## Error's location
-<!--Complete name, with extension, of the file to fix (one filename per line if multiple files are impacted)-->
-The error concerns the file(s) named ...
-
-
-<!--Platform(s) concerned by the error (Put an `x` in all the boxes that apply.)-->
-The error is present on:
-
-- [ ] intra.epitech.digital (Gandalf) 
-- [ ] gandalf.epitech.eu (Merlin)
-- [ ] intra.epitech.eu (Intra)
-- [ ] jenkins.epitest.eu (Moulinette)
-- [ ] github.com
-
-
-
-
-
-## Error's description
-<!--Clear and concise description of what you're experiencing (screenshot(s) are welcome)-->
-On page ..., it is written ...
-
-
-## Error's correction
-<!--Clear and concise description of a potential fix.-->
-It should be written ...
-
+- Location: The error concerns the line(s) .... in file named ...
+- Description: It is written ...
+- Correction: It should be written ...
 
 
 ## Thanks for taking the time to fill out this report! It will tremendously contribute to fix the pedagogical content delivered.
